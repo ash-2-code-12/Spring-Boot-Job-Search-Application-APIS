@@ -1,7 +1,7 @@
 # Jobby - Job Search API
 
-## 🔗 Frontend Repository
-[👉 View on GitHub](https://github.com/ash-2-code-12/React-Js-Jobby-job-search-application)
+#### 🔗 Frontend Repository - [👉 View on GitHub](https://github.com/ash-2-code-12/React-Js-Jobby-job-search-application)
+---
 
 ![Java](https://img.shields.io/badge/Java-21-informational?logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.5-brightgreen?logo=springboot)
